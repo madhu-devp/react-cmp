@@ -1,0 +1,102 @@
+.input-wrapper {
+  margin: 1rem 0;
+  font-family: sans-serif;
+}
+
+.input-label {
+  display: block;
+  margin-bottom: 4px;
+  font-weight: 500;
+}
+
+.input-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.input-field.invalid {
+  border-color: red;
+}
+
+.input-wrapper.outlined .input-field {
+  background-color: white;
+  border: 1px solid #ccc;
+}
+
+.input-wrapper.filled .input-field {
+  background-color: #f2f2f2;
+  border: none;
+}
+
+.input-wrapper.ghost .input-field {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  background: transparent;
+}
+
+.input-wrapper.sm .input-field {
+  padding: 4px 8px;
+  font-size: 12px;
+}
+
+.input-wrapper.md .input-field {
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+.input-wrapper.lg .input-field {
+  padding: 12px 16px;
+  font-size: 16px;
+}
+
+.icon-button {
+  position: absolute;
+  right: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.loader {
+  position: absolute;
+  right: 8px;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #ccc;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.helper-text {
+  margin-top: 4px;
+  font-size: 12px;
+  color: #555;
+}
+
+.error-text {
+  margin-top: 4px;
+  font-size: 12px;
+  color: red;
+}
+
+.disabled .input-field {
+  background: #eee;
+  cursor: not-allowed;
+}
