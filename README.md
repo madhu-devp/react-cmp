@@ -153,11 +153,12 @@ const columns = [
 Components are documented using Storybook with examples for different states, variants, and props.```
 
 ##✨ Author
-
+---
 madhulatha
 B.Tech CSE | Frontend Developer Enthusiast 🚀
 
-##📬 Contact
+#$📬 Contact
+---
 - 📧 Email: [madhu-devp](madhupodilapu999@gmail.com)
 - 💼 LinkedIn: [madhu-devp](https://linkedin.com/in/madhu-devp)  
 - 🐙 GitHub: [madhu-devp](https://github.com/madhu-devp)  
