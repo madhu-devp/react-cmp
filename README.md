@@ -1,5 +1,7 @@
 # 🎨 React Component Development Assignment
 This repository contains two reusable React components (InputField & DataTable) built using React, TypeScript, TailwindCSS, and Storybook.
+
+---
 👉 Live Preview: [Storybook Preview](https://68a5a8893bd1b8b9feb0a69c-hbkcrbdyzo.chromatic.com)
 ## 🚀 Components
 
@@ -150,7 +152,7 @@ Components are documented using Storybook with examples for different states, va
 madhulatha
 B.Tech CSE | Frontend Developer Enthusiast 🚀
 
-#$ 📬 Contact
+## 📬 Contact
 ---
 - 📧 Email: [madhu-devp](madhupodilapu999@gmail.com)
 - 💼 LinkedIn: [madhu-devp](https://linkedin.com/in/madhu-devp)  
