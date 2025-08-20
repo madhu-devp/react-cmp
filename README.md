@@ -55,7 +55,7 @@ interface Column<T> {
   sortable?: boolean;  
 }
 ```
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 --
 React 18
 TypeScript
@@ -103,7 +103,7 @@ Run tests:
 ```
 npm run test
 ```
-##🖼️ Example Usage
+## 🖼️ Example Usage
 --
 InputField Example
 ```
@@ -115,7 +115,7 @@ InputField Example
   size="md"
 />
 ````
-##DataTable Example
+## DataTable Example
 --
 ```
 const users = [
@@ -145,12 +145,12 @@ const columns = [
 
 Components are documented using Storybook with examples for different states, variants, and props.```
 
-##✨ Author
+## ✨ Author
 ---
 madhulatha
 B.Tech CSE | Frontend Developer Enthusiast 🚀
 
-#$📬 Contact
+#$ 📬 Contact
 ---
 - 📧 Email: [madhu-devp](madhupodilapu999@gmail.com)
 - 💼 LinkedIn: [madhu-devp](https://linkedin.com/in/madhu-devp)  
