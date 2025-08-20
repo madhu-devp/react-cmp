@@ -29,7 +29,7 @@ interface InputFieldProps {
   size?: 'sm' | 'md' | 'lg';  
 }
 ```
-##2. DataTable
+## 2. DataTable
 --
 A table component to render and manage structured data.
 ***Features
