@@ -58,7 +58,7 @@ interface Column<T> {
 }
 ```
 ## 🛠️ Tech Stack
---
+---
 React 18
 TypeScript
 TailwindCSS
@@ -106,7 +106,7 @@ Run tests:
 npm run test
 ```
 ## 🖼️ Example Usage
---
+---
 InputField Example
 ```
 <InputField
@@ -118,7 +118,7 @@ InputField Example
 />
 ````
 ## DataTable Example
---
+---
 ```
 const users = [
   { id: 1, name: "Madhu", email: "madhu@example.com" },
