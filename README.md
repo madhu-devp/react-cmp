@@ -58,7 +58,6 @@ interface Column<T> {
 }
 ```
 ## 🛠️ Tech Stack
----
 React 18
 TypeScript
 TailwindCSS
@@ -106,7 +105,6 @@ Run tests:
 npm run test
 ```
 ## 🖼️ Example Usage
----
 InputField Example
 ```
 <InputField
@@ -118,7 +116,6 @@ InputField Example
 />
 ````
 ## DataTable Example
----
 ```
 const users = [
   { id: 1, name: "Madhu", email: "madhu@example.com" },
@@ -146,14 +143,10 @@ const columns = [
 📘 Documentation
 
 Components are documented using Storybook with examples for different states, variants, and props.```
-
 ## ✨ Author
----
 madhulatha
 B.Tech CSE | Frontend Developer Enthusiast 🚀
-
 ## 📬 Contact
----
 - 📧 Email: [madhu-devp](madhupodilapu999@gmail.com)
 - 💼 LinkedIn: [madhu-devp](https://linkedin.com/in/madhu-devp)  
 - 🐙 GitHub: [madhu-devp](https://github.com/madhu-devp)  
