@@ -32,7 +32,7 @@ interface InputFieldProps {
 }
 ```
 ## 2. DataTable
---
+---
 A table component to render and manage structured data.
 ***Features
 --
