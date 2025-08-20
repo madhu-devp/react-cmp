@@ -58,10 +58,10 @@ interface Column<T> {
 }
 ```
 ## 🛠️ Tech Stack
-React 18
-TypeScript
-TailwindCSS
-Storybook (for documentation & preview)
+React 18,
+TypeScript,
+TailwindCSS,
+Storybook (for documentation & preview),
 Jest / React Testing Library (basic tests)
 ```
 .
