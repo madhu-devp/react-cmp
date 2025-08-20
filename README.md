@@ -29,20 +29,15 @@ interface InputFieldProps {
   size?: 'sm' | 'md' | 'lg';  
 }
 ```
-2. DataTable
-
+##2. DataTable
+--
 A table component to render and manage structured data.
-
-Features
-
+***Features
+--
 Display tabular data
-
 Column sorting
-
 Row selection (single/multiple)
-
 Loading and empty states
-
 Customizable column definitions
 ```
 interface DataTableProps<T> {  
@@ -60,16 +55,12 @@ interface Column<T> {
   sortable?: boolean;  
 }
 ```
-🛠️ Tech Stack
-
+##🛠️ Tech Stack
+--
 React 18
-
 TypeScript
-
 TailwindCSS
-
 Storybook (for documentation & preview)
-
 Jest / React Testing Library (basic tests)
 ```
 .
@@ -112,7 +103,8 @@ Run tests:
 ```
 npm run test
 ```
-🖼️ Example Usage
+##🖼️ Example Usage
+--
 InputField Example
 ```
 <InputField
@@ -123,7 +115,8 @@ InputField Example
   size="md"
 />
 ````
-DataTable Example
+##DataTable Example
+--
 ```
 const users = [
   { id: 1, name: "Madhu", email: "madhu@example.com" },
